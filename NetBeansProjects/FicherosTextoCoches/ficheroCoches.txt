@@ -1,0 +1,4 @@
+Renault:Captur:1200
+Toyota:Avensis:45000
+Ferrari:Italia:0
+Lambo:Huracan:12
